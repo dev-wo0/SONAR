@@ -1,0 +1,92 @@
+c:\users\kimjw\documents\visual studio 2015\Projects\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe.config
+c:\users\kimjw\documents\visual studio 2015\Projects\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe
+c:\users\kimjw\documents\visual studio 2015\Projects\dbProject_server\dbProject_server\bin\Debug\dbProject_server.pdb
+c:\users\kimjw\documents\visual studio 2015\Projects\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csprojResolveAssemblyReference.cache
+c:\users\kimjw\documents\visual studio 2015\Projects\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Form1.resources
+c:\users\kimjw\documents\visual studio 2015\Projects\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Properties.Resources.resources
+c:\users\kimjw\documents\visual studio 2015\Projects\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csproj.GenerateResource.Cache
+c:\users\kimjw\documents\visual studio 2015\Projects\dbProject_server\dbProject_server\obj\Debug\dbProject_server.exe
+c:\users\kimjw\documents\visual studio 2015\Projects\dbProject_server\dbProject_server\obj\Debug\dbProject_server.pdb
+c:\users\kimjw\documents\visual studio 2015\Projects\dbProject_server\dbProject_server\bin\Debug\MySql.Data.dll
+c:\users\kimjw\documents\visual studio 2015\Projects\dbProject_server\dbProject_server\bin\Debug\MySql.Data.xml
+C:\Users\kimjw\Desktop\dbProject\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe.config
+C:\Users\kimjw\Desktop\dbProject\dbProject_server\dbProject_server\obj\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject\dbProject_server\dbProject_server\obj\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject\dbProject_server\dbProject_server\bin\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject\dbProject_server\dbProject_server\bin\Debug\MySql.Data.dll
+C:\Users\kimjw\Desktop\dbProject\dbProject_server\dbProject_server\bin\Debug\MySql.Data.xml
+C:\Users\kimjw\Desktop\dbProject\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\dbProject\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Properties.Resources.resources
+C:\Users\kimjw\Desktop\dbProject\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\dbProject\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Form1.resources
+C:\Users\kimjw\Desktop\dbProject_ver2\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe.config
+C:\Users\kimjw\Desktop\dbProject_ver2\dbProject_server\dbProject_server\obj\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject_ver2\dbProject_server\dbProject_server\obj\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject_ver2\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject_ver2\dbProject_server\dbProject_server\bin\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject_ver2\dbProject_server\dbProject_server\bin\Debug\MySql.Data.dll
+C:\Users\kimjw\Desktop\dbProject_ver2\dbProject_server\dbProject_server\bin\Debug\MySql.Data.xml
+C:\Users\kimjw\Desktop\dbProject_ver2\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\dbProject_ver2\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Form1.resources
+C:\Users\kimjw\Desktop\dbProject_ver2\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Properties.Resources.resources
+C:\Users\kimjw\Desktop\dbProject_ver2\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\dbProject_ver2 test\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe.config
+C:\Users\kimjw\Desktop\dbProject_ver2 test\dbProject_server\dbProject_server\obj\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject_ver2 test\dbProject_server\dbProject_server\obj\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject_ver2 test\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject_ver2 test\dbProject_server\dbProject_server\bin\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject_ver2 test\dbProject_server\dbProject_server\bin\Debug\MySql.Data.dll
+C:\Users\kimjw\Desktop\dbProject_ver2 test\dbProject_server\dbProject_server\bin\Debug\MySql.Data.xml
+C:\Users\kimjw\Desktop\dbProject_ver2 test\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\dbProject_ver2 test\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Form1.resources
+C:\Users\kimjw\Desktop\dbProject_ver2 test\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Properties.Resources.resources
+C:\Users\kimjw\Desktop\dbProject_ver2 test\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\dbProject_ver3\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe.config
+C:\Users\kimjw\Desktop\dbProject_ver3\dbProject_server\dbProject_server\obj\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject_ver3\dbProject_server\dbProject_server\obj\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject_ver3\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject_ver3\dbProject_server\dbProject_server\bin\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject_ver3\dbProject_server\dbProject_server\bin\Debug\MySql.Data.dll
+C:\Users\kimjw\Desktop\dbProject_ver3\dbProject_server\dbProject_server\bin\Debug\MySql.Data.xml
+C:\Users\kimjw\Desktop\dbProject_ver3\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\dbProject_ver3\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Form1.resources
+C:\Users\kimjw\Desktop\dbProject_ver3\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Properties.Resources.resources
+C:\Users\kimjw\Desktop\dbProject_ver3\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\dbProject_ver4\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe.config
+C:\Users\kimjw\Desktop\dbProject_ver4\dbProject_server\dbProject_server\obj\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject_ver4\dbProject_server\dbProject_server\obj\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject_ver4\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject_ver4\dbProject_server\dbProject_server\bin\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject_ver4\dbProject_server\dbProject_server\bin\Debug\MySql.Data.dll
+C:\Users\kimjw\Desktop\dbProject_ver4\dbProject_server\dbProject_server\bin\Debug\MySql.Data.xml
+C:\Users\kimjw\Desktop\dbProject_ver4\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\dbProject_ver4\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Form1.resources
+C:\Users\kimjw\Desktop\dbProject_ver4\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Properties.Resources.resources
+C:\Users\kimjw\Desktop\dbProject_ver4\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\dbProject_ver5\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe.config
+C:\Users\kimjw\Desktop\dbProject_ver5\dbProject_server\dbProject_server\obj\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject_ver5\dbProject_server\dbProject_server\obj\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject_ver5\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject_ver5\dbProject_server\dbProject_server\bin\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject_ver5\dbProject_server\dbProject_server\bin\Debug\MySql.Data.dll
+C:\Users\kimjw\Desktop\dbProject_ver5\dbProject_server\dbProject_server\bin\Debug\MySql.Data.xml
+C:\Users\kimjw\Desktop\dbProject_ver5\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\dbProject_ver5\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Form1.resources
+C:\Users\kimjw\Desktop\dbProject_ver5\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Properties.Resources.resources
+C:\Users\kimjw\Desktop\dbProject_ver5\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\dbProject_ver6\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe.config
+C:\Users\kimjw\Desktop\dbProject_ver6\dbProject_server\dbProject_server\obj\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject_ver6\dbProject_server\dbProject_server\obj\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject_ver6\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\dbProject_ver6\dbProject_server\dbProject_server\bin\Debug\dbProject_server.pdb
+C:\Users\kimjw\Desktop\dbProject_ver6\dbProject_server\dbProject_server\bin\Debug\MySql.Data.dll
+C:\Users\kimjw\Desktop\dbProject_ver6\dbProject_server\dbProject_server\bin\Debug\MySql.Data.xml
+C:\Users\kimjw\Desktop\dbProject_ver6\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\dbProject_ver6\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Form1.resources
+C:\Users\kimjw\Desktop\dbProject_ver6\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Properties.Resources.resources
+C:\Users\kimjw\Desktop\dbProject_ver6\dbProject_server\dbProject_server\obj\Debug\dbProject_server.Statistic.resources
+C:\Users\kimjw\Desktop\dbProject_ver6\dbProject_server\dbProject_server\obj\Debug\dbProject_server.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\DB_김정우\DB_ProJect_Final\dbProject_ver6\dbProject_server\dbProject_server\bin\Debug\dbProject_server.exe.config
+C:\Users\kimjw\Desktop\DB_김정우\DB_ProJect_Final\dbProject_ver6\dbProject_server\dbProject_server\obj\Debug\dbProject_server.exe
+C:\Users\kimjw\Desktop\DB_김정우\DB_ProJect_Final\dbProject_ver6\dbProject_server\dbProject_server\obj\Debug\dbProject_server.pdb
