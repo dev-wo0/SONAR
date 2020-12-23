@@ -36,7 +36,7 @@ namespace dbProject_client
         {
             try
             {
-                clientSocket.Connect("223.195.109.34", 9000);
+                clientSocket.Connect("127.0.0.1", 9000);
                 labelStatus.Text = "Client Program - Server Connected ...";
             }
 
